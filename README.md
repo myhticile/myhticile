@@ -1,13 +1,14 @@
 <!-- gifs superiores -->
 <div>
-  <img align="left" alt="skull" height="30" width="auto" src="https://media.tenor.com/w-FFnB-YLYYAAAAi/skull-rotate.gif"/>
-  <img align="left" alt="bat" height="35" width="auto" src="https://media.tenor.com/Npixqj3Ek1IAAAAi/sappy-seals.gif">
-  <img align="right" alt="skull" height="30" width="auto" src="https://media.tenor.com/w-FFnB-YLYYAAAAi/skull-rotate.gif"/>
+  <img align="left" alt="skull" height="25" width="auto" src="https://media.tenor.com/w-FFnB-YLYYAAAAi/skull-rotate.gif"/>
+  <img align="left" alt="bat" height="30" width="auto" src="https://media.tenor.com/Npixqj3Ek1IAAAAi/sappy-seals.gif">
+  <img align="right" alt="skull" height="25" width="auto" src="https://media.tenor.com/w-FFnB-YLYYAAAAi/skull-rotate.gif"/>
   <!-- <img align="center" alt="crow" height="100" width="auto" src="https://media1.tenor.com/m/4RZiTZWSgo4AAAAC/cat-black-cat.gif"> -->
   <!--<img align="center" alt="crow" height="100" width="auto" src="https://web.archive.org/web/20090829043948/http://www.geocities.com/pearlsnaplace/crowback.gif"-->
-  <img align="right" alt="bat" height="35" width="auto" src="https://media.tenor.com/Npixqj3Ek1IAAAAi/sappy-seals.gif">
+  <img align="right" alt="bat" height="30" width="auto" src="https://media.tenor.com/Npixqj3Ek1IAAAAi/sappy-seals.gif">
 </div>
 
+<!-- gif corvos superior -->
 <div align="center">
     <img alt="crow" height="100" width="auto" src="https://web.archive.org/web/20090829043948/http://www.geocities.com/pearlsnaplace/crowback.gif">
 </div>
@@ -39,11 +40,12 @@
 
   <!-- linguagens -->
 <div style="display: inline_block"><br>
-  <img align="center" alt="c++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="c++" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="java" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
    <br>
 </div>
 
+<!-- gif corvo inferior -->
 <div align="center">
     <img alt="crow" height="100" width="auto" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGp2YjM5NGRoNGF0dDJlMG9oN2VlN2xnZGczY3NjeGluM205NmRpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ny2bR4dhwCTC/giphy.webp">
 </div>
