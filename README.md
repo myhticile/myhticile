@@ -30,11 +30,11 @@
   <!-- link github stats -->
   <a href="https://github.com/myhticile"></a>
   <!-- gif nana -->
-  <img align="right" alt="nanagif" height="210" width="auto" src="https://media1.tenor.com/m/8z4ARlovaHkAAAAd/nana-nana-anime.gif">
+  <img align="right" alt="nanagif" height="200" width="auto" src="https://media1.tenor.com/m/8z4ARlovaHkAAAAd/nana-nana-anime.gif">
   <!-- github stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myhticile&show_icons=true&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=myhticile&show_icons=true&theme=midnight-purple"/>
     <br>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myhticile&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myhticile&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 
   <!-- linguagens -->
