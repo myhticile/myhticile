@@ -43,8 +43,13 @@
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
    <br>
    <br>
-
-##
+   <br>
+<!-- barra caveira -->
+<div align="center">
+  <img alt="skeleton jump" height="10" width="auto" align="center" src="https://github.com/Edmurk/Edmurk/blob/main/gifs/bone2-removebg-preview.png">
+  <img alt="skeleton jump" height="10" width="auto" align="center" src="https://github.com/Edmurk/Edmurk/blob/main/gifs/bone2-removebg-preview.png">
+  <img alt="skeleton jump" height="10" width="auto" align="center" src="https://github.com/Edmurk/Edmurk/blob/main/gifs/bone2-removebg-preview.png">
+</div>
   
 <!-- gifs inferiores-->  
   <img align="right" alt="lapide" height="110" width="auto" src="https://web.archive.org/web/20091027035904/http://br.geocities.com/studiolordedankhgifs/grave2.gif"/>
