@@ -46,6 +46,8 @@
    <br>
    <br>
 
+##
+  
 <!-- gifs inferiores-->  
   <img align="right" alt="lapide" height="110" width="auto" src="https://web.archive.org/web/20091027035904/http://br.geocities.com/studiolordedankhgifs/grave2.gif"/>
    <img alt="suicide" height="100" width="auto" src="https://web.archive.org/web/20091019015741/http://www.geocities.com/v2vfdevilhouseofhorror/skull_hng.gif">
