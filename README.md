@@ -43,7 +43,8 @@
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
    <br>
    <br>
-  
+   <br>
+   <br>
 
 <!-- gifs inferiores-->  
   <img align="right" alt="lapide" height="110" width="auto" src="https://web.archive.org/web/20091027035904/http://br.geocities.com/studiolordedankhgifs/grave2.gif"/>
