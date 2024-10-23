@@ -8,9 +8,9 @@
   <img align="right" alt="bat" height="35" width="auto" src="https://media.tenor.com/Npixqj3Ek1IAAAAi/sappy-seals.gif">
 </div>
 
-<br>
-<br>
-<br>
+<div align="center">
+    <img alt="crow" height="100" width="auto" src="https://web.archive.org/web/20090829043948/http://www.geocities.com/pearlsnaplace/crowback.gif">
+</div>
 
 <!-- digitando... -->
 <div align="center">
