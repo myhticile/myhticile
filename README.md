@@ -42,7 +42,10 @@
   <img align="center" alt="c++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
    <br>
-   <br>
+</div>
+
+<div align="center">
+    <img alt="crow" height="100" width="auto" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGp2YjM5NGRoNGF0dDJlMG9oN2VlN2xnZGczY3NjeGluM205NmRpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ny2bR4dhwCTC/giphy.webp">
 </div>
 
 <!-- barra caveira -->
@@ -58,5 +61,4 @@
 <!-- gifs inferiores-->  
   <img align="right" alt="lapide" height="110" width="auto" src="https://web.archive.org/web/20091027035904/http://br.geocities.com/studiolordedankhgifs/grave2.gif"/>
   <img alt="suicide" height="100" width="auto" src="https://web.archive.org/web/20091019015741/http://www.geocities.com/v2vfdevilhouseofhorror/skull_hng.gif">
-  <img align="center" alt="crow" height="100" width="auto" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGp2YjM5NGRoNGF0dDJlMG9oN2VlN2xnZGczY3NjeGluM205NmRpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ny2bR4dhwCTC/giphy.webp">
 </div>
