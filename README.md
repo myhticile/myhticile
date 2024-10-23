@@ -51,6 +51,7 @@
   <img alt="skeleton jump" height="10" width="auto" align="center" src="https://github.com/Edmurk/Edmurk/blob/main/gifs/bone2-removebg-preview.png">
   <img alt="skeleton jump" height="10" width="auto" align="center" src="https://github.com/Edmurk/Edmurk/blob/main/gifs/bone2-removebg-preview.png">
   <br>
+  <br>
 </div>
 
 <div>
