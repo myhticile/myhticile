@@ -8,6 +8,10 @@
   <img align="right" alt="bat" height="35" width="auto" src="https://media.tenor.com/Npixqj3Ek1IAAAAi/sappy-seals.gif">
 </div>
 
+<br>
+<br>
+<br>
+
 <!-- digitando... -->
 <div align="center">
   <a href="https://git.io/typing-svg">
