@@ -61,7 +61,7 @@
 
 <div>
 <!-- gifs inferiores-->  
-  <img align="right" alt="lapide" height="110" width="auto" src="https://web.archive.org/web/20091027035904/http://br.geocities.com/studiolordedankhgifs/grave2.gif"/>
+  <img align="right" alt="lapide" height="110" width="auto" src="https://web.archive.org/web/20091027035904/http://br.geocities.com/studiolordedankhgifs/grave2.gif">
   <img align="left"alt="suicide" height="100" width="auto" src="https://web.archive.org/web/20091019015741/http://www.geocities.com/v2vfdevilhouseofhorror/skull_hng.gif">
   <img align="left" alt="pentagram" height="30" width="auto" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVmZHp1cDA1b3VlNnkycHlqeDNyZTVkdTdtZmNpeXJkZDBubG9pdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ckhaLqYn1miBbAYbIg/giphy.webp">
   <img align="right" alt="pentagram" height="30" width="auto" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVmZHp1cDA1b3VlNnkycHlqeDNyZTVkdTdtZmNpeXJkZDBubG9pdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ckhaLqYn1miBbAYbIg/giphy.webp">
